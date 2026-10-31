@@ -1,0 +1,23 @@
+Nome exato de cada foto e a pasta (padrão das vagas; ao trocar o id/nome de um produto, ajuste o campo image).
+
+public/images/promocoes/promocoes-01.jpg
+public/images/promocoes/promocoes-02.jpg
+public/images/promocoes/promocoes-03.jpg
+public/images/combos/combos-01.jpg
+public/images/combos/combos-02.jpg
+public/images/combos/combos-03.jpg
+public/images/burgers/burgers-01.jpg
+public/images/burgers/burgers-02.jpg
+public/images/burgers/burgers-03.jpg
+public/images/entradas/entradas-01.jpg
+public/images/entradas/entradas-02.jpg
+public/images/entradas/entradas-03.jpg
+public/images/sobremesas/sobremesas-01.jpg
+public/images/sobremesas/sobremesas-02.jpg
+public/images/sobremesas/sobremesas-03.jpg
+public/images/bebidas/bebidas-01.jpg
+public/images/bebidas/bebidas-02.jpg
+public/images/bebidas/bebidas-03.jpg
+public/images/adicionais/adicionais-01.jpg
+public/images/adicionais/adicionais-02.jpg
+public/images/adicionais/adicionais-03.jpg
